@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# A Landing page made with Create React App
+
+ok, so i messed up my old wordpress website and so i scaffolded out a really quick one to save the ... um, day. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
