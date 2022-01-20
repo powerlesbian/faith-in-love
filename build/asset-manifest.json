@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21480ff7.css",
+    "main.js": "/static/js/main.184c8790.js",
+    "static/media/FIL-logo-final-01.png": "/static/media/FIL-logo-final-01.2a5a4ddcc4ffc64a9bfa.png",
+    "index.html": "/index.html",
+    "main.21480ff7.css.map": "/static/css/main.21480ff7.css.map",
+    "main.184c8790.js.map": "/static/js/main.184c8790.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21480ff7.css",
+    "static/js/main.184c8790.js"
+  ]
+}

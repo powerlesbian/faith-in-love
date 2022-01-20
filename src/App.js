@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './FIL-logo-final-01.png';
 import './App.css';
 
 function App() {
@@ -7,15 +7,16 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welcome to Faith in Love Foundation's Website <br></br><br></br>
+          You can contact us at: <br></br><br></br> 4901 Central Plaza, <br></br>18 Harbour Road, <br></br>Wanchai, Hong Kong
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.facebook.com/foundfaithinlove"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Please visit our Facebook page for more information 
         </a>
       </header>
     </div>
