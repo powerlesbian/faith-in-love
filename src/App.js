@@ -17,7 +17,24 @@ function App() {
           rel="noopener noreferrer"
         >
           Please visit our Facebook page for more information 
-        </a>
+        </a><br></br>
+        <a
+          className="App-link"
+          href="https://buy.stripe.com/7sI2bZgL30Es4Ni3cd"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Click here if you would like to support our work with a donation.
+        </a><br></br><br></br>
+        <a
+          className="App-link"
+          href="https://www.faith-in-love.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+         Sneak peak our new website here. 
+        </a
+
       </header>
     </div>
   );
